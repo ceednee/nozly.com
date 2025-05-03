@@ -8,7 +8,6 @@ import { appSidebarItems } from "@/data/nav"
 import {
   Sidebar,
   SidebarContent,
-  SidebarFooter,
   SidebarGroup,
   SidebarGroupContent,
   SidebarGroupLabel,
