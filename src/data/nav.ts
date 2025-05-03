@@ -1,4 +1,4 @@
-import { IconDashboard, IconDeviceAnalytics, IconHelp, IconNotification, IconReportAnalytics, IconActivity, IconDog, IconPresentationAnalytics, IconRocket, IconBinaryTree, IconGraph, IconUsers, IconReplaceUser, IconMessage, IconSortAZ } from "@tabler/icons-react"
+import { IconDashboard, IconDeviceAnalytics, IconHelp, IconNotification, IconActivity, IconDog, IconPresentationAnalytics, IconRocket, IconBinaryTree, IconGraph, IconReplaceUser, IconMessage, IconSortAZ } from "@tabler/icons-react"
 
 import { AppSidebarItemsProps } from "@/types/type"
 
